@@ -1,0 +1,90 @@
+         @import url("https://fonts.googleapis.com/css2?family=Forum&family=Nunito&display=swap");
+
+         * {
+             box-sizing: border-box;
+         }
+
+         .modeless {
+             background-color: #FAF290;
+         }
+
+         .button-74 {
+             background-color: #fbeee0;
+             border: 2px solid #422800;
+             border-radius: 30px;
+             box-shadow: #422800 4px 4px 0 0;
+             color: #422800;
+             cursor: pointer;
+             display: inline-block;
+             font-weight: 600;
+             font-size: 18px;
+             font-family: 'Roboto Mono', sans-serif;
+             padding: 0 auto;
+             line-height: 20px;
+             text-align: center;
+             text-decoration: none;
+             user-select: none;
+             -webkit-user-select: none;
+             touch-action: manipulation;
+         }
+
+         .button-74:hover {
+             background-color: #fff;
+         }
+
+         .button-74:active {
+             box-shadow: #422800 2px 2px 0 0;
+             transform: translate(2px, 2px);
+         }
+
+         body {
+             background-color: #E00B80;
+             margin: 0;
+             font-size: 25px;
+
+             font-family: 'Roboto Mono', sans-serif;
+             background-image: url('https://img.freepik.com/free-vector/80-s-colorful-background-geometric-style_23-2148230327.jpg?w=900&t=st=1698260600~exp=1698261200~hmac=05943b570c4380cd10a0e9455d6e185fbd898812b11451963dad7e2b4d39be01');
+             background-size: cover;
+             background-position: center;
+             background-repeat: no-repeat;
+             text-align: center;
+         }
+
+         h1 {
+
+             text-align: center;
+
+             font-size: 90px;
+             color: #FFA3F8;
+         }
+
+         h5 {
+             text-align: center;
+
+             font-size: 25px;
+             color: #FFA3F8;
+         }
+
+         .searching {
+             margin-bottom: 100px;
+         }
+
+
+         .search-text-input {
+             font-style: bold;
+             font-size: large;
+             width: 5px;
+         }
+
+         .pic {
+             width: 250px;
+             position: relative;
+             display: inline-block;
+             margin: 20px;
+
+         }
+
+         button {
+             display: block;
+             margin: 0 auto;
+         }
